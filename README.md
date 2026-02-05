@@ -21,12 +21,12 @@ This watchOS application seamlessly syncs health metrics from Apple HealthKit to
 
 <div align="center">
   <!-- Replace these paths with your actual screenshot files -->
-  <img src="docs/screenshots/dashboard.png" alt="Dashboard View" width="200" style="margin: 10px;" />
-  <img src="docs/screenshots/charts.png" alt="Chart Detail" width="200" style="margin: 10px;" />
-  <img src="docs/screenshots/sync.png" alt="Sync Status" width="200" style="margin: 10px;" />
+  <img src="shot1.PNG" alt="Dashboard View" width="200" style="margin: 10px;" />
+  <img src="shot2.PNG" alt="Chart Detail" width="200" style="margin: 10px;" />
+  <img src="shot3.PNG" alt="Dashboard Status" width="200" style="margin: 10px;" />
 </div>
 
-> *Note: Please add your app screenshots to a `docs/screenshots/` folder.*
+
 
 ## Setup Guide
 
