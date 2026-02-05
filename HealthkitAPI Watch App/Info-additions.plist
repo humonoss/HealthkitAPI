@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<!-- Add these keys to your Info.plist -->
+	<key>NSHealthShareUsageDescription</key>
+	<string>HealthkitAPI needs access to your health data to sync with Firebase for analysis and insights.</string>
+	<key>NSHealthUpdateUsageDescription</key>
+	<string>HealthkitAPI may update your health data based on synced information.</string>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>workout-processing</string>
+		<string>health</string>
+	</array>
+</dict>
+</plist>
